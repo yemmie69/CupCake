@@ -1,0 +1,46 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Sign up now to cup cake",
+        "description": "",
+        "id": "sign-up-now;sign-up-now-to-cup-cake",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14257655859,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I navigated to cup cake website https://www.alzheimers.org.uk/cupcake-day",
+            "match": {
+              "location": "SignUpNowStep.i_navigated_to_cup_cake_website_https_www_alzheimers_org_uk_cupcake_day()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 67756,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on sign up now",
+            "match": {
+              "location": "SignUpNowStep.i_click_on_sign_up_now()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Sign up now",
+    "description": "",
+    "id": "sign-up-now",
+    "keyword": "Feature",
+    "uri": "/Users/yemioluv/eclipse-workspace/com.CupCake/src/test/java/features/SignUpNow.feature"
+  }
+]

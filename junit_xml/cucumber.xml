@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="14.257724">
+<testcase classname="Sign up now" name="Sign up now to cup cake" time="14.257724">
+<system-out><![CDATA[Given I navigated to cup cake website https://www.alzheimers.org.uk/cupcake-day.passed
+And I click on sign up now..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
